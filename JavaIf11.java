@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaIf10{
+public class JavaIf11{
 	public static void main (String []args)
 	{
         int quantity;
