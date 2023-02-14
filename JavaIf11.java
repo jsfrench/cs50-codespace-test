@@ -7,7 +7,7 @@ public class JavaIf10{
 
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.print("Enter quantity being purchased: ");
+        System.out.print("Enter ***** being purchased: ");
 		quantity = keyboard.nextInt();
 
 		if(quantity < 10)
