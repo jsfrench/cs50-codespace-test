@@ -5,10 +5,10 @@ public class JavaIf11{
 	{
         int quantity;
 
-        Scanner keyboard = new Scanner(System.in);
+        Scanner keyboard = new Scanner(System.in)
 
         System.out.print("Enter ***** being purchased: ");
-		quantity = keyboard.nextInt();
+		quantity = keyboard.nextint();
 
 		if(quantity < 10)
 		{

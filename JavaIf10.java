@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class JavaIf10{
 	public static void main (String []args)
 	{
-        int quantity;
+        int quantity
 
         Scanner keyboard = new Scanner(System.in);
 
